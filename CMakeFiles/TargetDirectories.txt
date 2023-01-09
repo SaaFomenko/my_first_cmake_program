@@ -1,0 +1,3 @@
+/home/adminus/projects/lessons/c++/my_first_cmake_program/CMakeFiles/edit_cache.dir
+/home/adminus/projects/lessons/c++/my_first_cmake_program/CMakeFiles/my_first_cmake_program.out.dir
+/home/adminus/projects/lessons/c++/my_first_cmake_program/CMakeFiles/rebuild_cache.dir
