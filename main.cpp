@@ -1,7 +1,8 @@
 #include <iostream>
+#include <string>
 
 
-main()
+int main()
 {
 	std::string userin = "";
 
